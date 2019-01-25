@@ -27,7 +27,9 @@ Tags : Logging Data, Saving it your Device/Simulator, Reviewing Logs, Analysing 
  9. Done.
  
  Below are the screenshots for your convenience.
- 
- 
- ![image1](https://ibb.co/4JRt0P9)
+  
+1. <a href="https://ibb.co/8cb9NNS"><img src="https://i.ibb.co/L5r1YY2/11.png" alt="11" border="0"></a>
+2. <a href="https://ibb.co/G0T6ykf"><img src="https://i.ibb.co/7X4fPVx/22.png" alt="22" border="0"></a>
+3. <a href="https://ibb.co/dQgN4Zj"><img src="https://i.ibb.co/BgNh2kc/33.png" alt="33" border="0"></a>
+4. <a href="https://ibb.co/4JRt0P9"><img src="https://i.ibb.co/cxh3sDM/44.png" alt="44" border="0"></a>
  
