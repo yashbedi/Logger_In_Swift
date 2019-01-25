@@ -28,5 +28,6 @@ Tags : Logging Data, Saving it your Device/Simulator, Reviewing Logs, Analysing 
  
  Below are the screenshots for your convenience.
  
- <img src="https://ibb.co/4JRt0P9" />
+ 
+ ![image1](https://ibb.co/4JRt0P9)
  
