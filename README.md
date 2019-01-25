@@ -6,7 +6,7 @@ Tags : Logging Data, Saving it your Device/Simulator, Reviewing Logs, Analysing 
 
 # How to use it: 
 1. Add this file to your project.
-2. Use it like this : `Logger.writeToFile(text: "--- startUpdatingLocation() Called in LocationManager. ”, to: kLogsFile)`
+2. Use it like this : `Logger.writeToFile(text: "-> startUpdatingLocation() called.”, to: kLogsFile)`
 
 
 
